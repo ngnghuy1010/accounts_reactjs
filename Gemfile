@@ -49,3 +49,5 @@ gem 'twitter-bootstrap-rails'
 
 #reactjs
 gem 'react-rails', '~> 1.3.1'
+
+gem 'pg'
